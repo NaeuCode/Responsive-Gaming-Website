@@ -1,0 +1,71 @@
+/* =================== Google Fonts ================= */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap");
+
+/* ====================== Base ====================== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  overflow: hidden;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* =================== Main ================= */
+/* Header */
+
+
+/* Logo */
+
+
+/* Navbar List */
+
+
+/* Menu Icon */
+
+
+/* About */
+
+
+/* About Image */
+
+
+/* About Texts */
+
+
+/* Play Icon */
+
+
+/* Social Icons */
+
+
+/* Scroll Down */
+
+
+/* Media Queries */
+@media screen and (max-width: 1440px){
+    
+}
+
+@media screen and (max-width: 1106px){
+    
+}
+
+@media screen and (max-width: 940px){
+    
+}
+
+@media screen and (max-width: 779px){
+    
+}
+
+@media screen and (max-width: 390px){
+    
+}
